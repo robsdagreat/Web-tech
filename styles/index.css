@@ -1,0 +1,78 @@
+.container{
+    background-color: aliceblue;
+    color:black;
+    font-size: 40px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 50%;
+    height: 60vh;
+}
+.display {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:8px 8px 8px 8px;
+    background-color: grey; 
+
+}
+.display form input{
+    border:0px;
+    outline:0px;
+    height: 60px;
+    border-radius: 10px;
+    box-shadow: -8px -8px 15px rgb(red, green, blue),-8px -8px 15px rgb(red, green, blue);
+    background-color: white;
+    width: 225px;
+}
+.row1{
+    margin: 5px;
+    padding:2;
+    border-radius: 5px ;
+    box-shadow: 8px 8px 8px 8px;
+    background-color: grey;
+
+}
+.row2{
+    margin: 5px;
+    padding:2;
+    border-radius: 5px ;
+    box-shadow: 8px 8px 8px 8px;
+    background-color: grey;
+
+}
+.row3{
+    margin: 5px;
+    padding:2;
+    border-radius: 5px ;
+    box-shadow: 8px 8px 8px 8px;
+    background-color: grey;
+}
+.row4{
+    margin: 5px;
+    padding:2;
+    border-radius: 5px ;
+    box-shadow: 8px 8px 8px 8px;
+    background-color: grey;
+
+}
+.row5{
+    margin: 5px;
+    padding:2;
+    border-radius: 5px ;
+    box-shadow: 8px 8px 8px 8px;
+    background-color: grey;
+
+}
+.symbol{
+    background-color: darkcyan;
+    border-radius: 4px;
+    height: 60px;
+    width: 60px;
+}
+.number{
+    background-color:brown;
+    border-radius: 4px;
+    height: 60px;
+    width: 60px;  
+}
